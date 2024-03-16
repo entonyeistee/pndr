@@ -1,0 +1,9 @@
+.button-container {
+    display: flex;
+    justify-content: space-between; /* Adjust this based on your spacing preference */
+}
+
+.shop__card__purchase {
+    flex-grow: 3; /* This will make the buttons take equal width */
+    /* Add any additional styling you need for the buttons here */
+}
